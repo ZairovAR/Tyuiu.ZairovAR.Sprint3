@@ -10,7 +10,7 @@ namespace Tyuiu.ZairovAR.Sprint3.Task3.V13.Lib
     {
         public int ConvertStringToInt(string value)
         {
-            int result = 0;
+            string result = "";
             foreach (char c in value)
             {
                 if (Char.IsDigit(c))
@@ -18,7 +18,7 @@ namespace Tyuiu.ZairovAR.Sprint3.Task3.V13.Lib
                     result += c;
                 }
             }
-            return result;
+            return Int32.Parse(result);
         }
     }
 }

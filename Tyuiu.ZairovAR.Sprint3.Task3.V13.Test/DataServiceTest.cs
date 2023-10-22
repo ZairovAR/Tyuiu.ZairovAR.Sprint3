@@ -13,7 +13,7 @@ namespace Tyuiu.ZairovAR.Sprint3.Task3.V13.Test
 
             string value = "?sd!! 5gh. s!";
            
-            string res = ds.ConvertStringToInt(value);
+            int res = ds.ConvertStringToInt(value);
             int wait = 5;
             Assert.AreEqual(wait, res);
         }
