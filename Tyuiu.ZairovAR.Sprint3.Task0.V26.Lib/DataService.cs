@@ -14,7 +14,7 @@ namespace Tyuiu.ZairovAR.Sprint3.Task0.V26.Lib
             int k;
             for ( k = startValue; k <= stopValue; k++ ) 
             {
-               res = res + (((Math.Pow(2, k))/(k + 1)) * Math.Cos(1.8));
+               res = res + (((Math.Pow(2, k))/(k + 1)) * Math.Cos(1.8)) ;
             }
             return Math.Round(res, 3);
         }
