@@ -12,7 +12,7 @@ namespace Tyuiu.ZairovAR.Sprint3.Task2.V10
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #3 | Выполнил: Заиров А. Р. | АСОиУб-23-2";
+            Console.Title = "Спринт #3 | Выполнил: Заиров А. Р. | АСОиУб-23-2" ;
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла while                                              *");

@@ -9,7 +9,7 @@ namespace Tyuiu.ZairovAR.Sprint3.Task2.V10.Test
         [TestMethod]
         public void TestMethod1()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService() ;
             int value = 1;
             int startValue = 1;
             int stopValue = 13;

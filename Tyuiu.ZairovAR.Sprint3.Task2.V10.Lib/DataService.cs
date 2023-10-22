@@ -14,7 +14,7 @@ namespace Tyuiu.ZairovAR.Sprint3.Task2.V10.Lib
 
             do
             {
-                res = res + ((Math.Pow(value, startValue)) + (1.0/(startValue + 1.0)));
+                res = res + ((Math.Pow(value, startValue)) + (1.0/(startValue + 1.0))) ;
                 startValue++;
 
             } while (startValue <= stopValue);
