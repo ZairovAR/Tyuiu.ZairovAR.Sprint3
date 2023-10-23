@@ -16,8 +16,8 @@ namespace Tyuiu.ZairovAR.Sprint3.Task5.V3
             Console.Title = "Спринт #3 | Выполнил: Заиров А. Р. | АСОиУб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Использование операторов continue и break в циклах                *");
-            Console.WriteLine("* Задание #4                                                              *");
+            Console.WriteLine("* Тема: Вложенные циклы                                                   *");
+            Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #3                                                              *");
             Console.WriteLine("* Выполнил: Заиров Артур Ранисович | АСОиУб-23-2                          *");
             Console.WriteLine("***************************************************************************");
